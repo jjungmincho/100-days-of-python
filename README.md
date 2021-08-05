@@ -14,6 +14,7 @@ Master Python by building 100 projects in 100 days
     - Average Height
     - High Score
     - The FizzBuzz Job Interview Question
+    - Password Generator 
 
 
 ### Source
