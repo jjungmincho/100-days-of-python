@@ -13,6 +13,7 @@ Master Python by building 100 projects in 100 days
 - Day 5: Loops 
     - Average Height
     - High Score
+    - The FizzBuzz Job Interview Question
 
 
 ### Source
